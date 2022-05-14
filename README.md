@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』 </b>
+<b> 『Luckyẞø†』 </b>
 </h1>
 
 <h6 align="center">
@@ -50,7 +50,7 @@
 > Heroku has blacklisted this repository, That's why heroku aur uski maa ka bharosha
 
 <h4>Click the button below to deploy Bot on Heroku!</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/mrvk1703/LEJHAND"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/mrvk1703/LAND"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 
 ---------
@@ -116,7 +116,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MRVK1703/LEJHANDD"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MRVK1703/LAND"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
